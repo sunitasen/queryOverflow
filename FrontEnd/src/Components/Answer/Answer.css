@@ -1,0 +1,14 @@
+.title {
+    text-decoration: none;
+}
+
+.acard {
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.profileimage {
+    border-radius: 35%;
+    height: 6vh;
+    width: 6vh;
+}
