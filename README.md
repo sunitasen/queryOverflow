@@ -9,7 +9,7 @@ How to run the app
         > yarn start
     - On your browser open locahost:8080. App will be running there.
     - The app is running at http://overflowquery.herokuapp.com/  however to see prediction of tags you will have to run it locally.
-    - To run the app locally change every instance of "https://overflowback-api-heroku.herokuapp.com/search" with "http://127.0.0.1:12345/tags   [in this file](https://github.com/sunitasen/queryOverflow/blob/master/FrontEnd/src/Components/DisplayPage/DisplayPage.js)
+    - To run the app locally change every instance of "https://overflowback-api-heroku.herokuapp.com/search" with "http://127.0.0.1:12345/tags"   [in this file](https://github.com/sunitasen/queryOverflow/blob/master/FrontEnd/src/Components/DisplayPage/DisplayPage.js)
 
 2. Run the model:
     - You will need python and pip to run the module
