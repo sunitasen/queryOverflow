@@ -30,7 +30,7 @@ def searchquery():
     j = 0
     print(data, len(items))
     for item in items:
-        if(j<3):
+        if(j<5):
             time.sleep(0.2)
             qId = item["question_id"]
             qLink = item["link"]
