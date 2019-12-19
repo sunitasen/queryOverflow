@@ -5,7 +5,7 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10
 Markdown==3.0.1
-nltk==3.4.4
+nltk==3.4.5
 numpy==1.16.2
 pandas==0.24.2
 requests==2.21.0
