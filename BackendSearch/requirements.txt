@@ -8,6 +8,6 @@ itsdangerous==1.1.0
 Jinja2==2.10
 Markdown==3.0.1
 MarkupSafe==1.1.1
-numpy==1.16.2
+numpy==1.22.0
 requests==2.21.0
 Werkzeug==0.14.1
